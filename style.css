@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -146,3 +147,135 @@ img {
 :hover.forgot {
     text-decoration: underline;
 }
+=======
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url('./images/bg.png');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  height: 90vh;
+}
+.head{
+  padding-top: 40px;
+  font-size: 60px;
+  font-weight: 900;
+  color: #719147;
+  padding-bottom: 10px;
+}
+.wrapper{
+  padding-left: 60px;
+  padding-right: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.apt{
+  color: #719147;
+  font-weight: 900;
+  font-size: 30px;
+}
+.log{
+  color: #719147;
+  padding-top: 10px;
+}
+li{
+  list-style: none;
+}
+.row{
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.s{
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #638438;
+  border-radius: 10px;
+  border: 1px solid #fff;
+}
+.f{
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+  align-items: center;
+  border: 1px solid #638438;
+}
+img{
+  width: 100%;
+  display: inline-block;
+}
+.man{
+  width: 450px;
+  margin-top: 20px;
+}
+.logo{
+  position: absolute;
+  top: 40px;
+  right: 60px;
+  width: 60px;
+}
+.form{
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.input1{
+padding: 15px;
+border-radius: 5px;
+margin-bottom: 30px;
+width: 300px;
+border:1px solid #607C3C;
+}
+.input2{
+  padding: 15px;
+  border-radius: 5px;
+  width: 300px;
+  border:1px solid #607C3C;
+  }
+.button{
+  padding: 15px;
+  border-radius: 5px;
+  background-image: linear-gradient(to right, #607C3C,rgba(96, 124, 60, 0.83));
+  background-image: linear-gradient(to left, #607C3C,rgba(96, 124, 60, 0.83));
+  border: none;
+  color: #fff;
+}
+.box{
+  padding: 40px;
+  align-items: center;
+  text-align: center;
+  border: 2px solid #607C3C;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+  padding-bottom: 100px;
+  width: 400px;
+  height: 400px;
+  margin-top: 150px;
+}
+.st{
+  color: #607C3C;
+  font-weight: 900;
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
+.forgot{
+  color: #607C3C;
+  text-decoration: none;
+  text-align: start;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+:hover.forgot{
+  text-decoration: underline;
+}
+>>>>>>> 501c7958c1ba46583876cea4dd376b239e149837
