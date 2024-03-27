@@ -1,0 +1,264 @@
+.desktop-27 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/CwFPfiNbBgQtgNmKduh2Nj/assets/images/5c7e70a532027cd05badb2dae38cee8441cc33b9?Expires=1711469741&KeyName=fn12-cdn&Signature=XjlMRWrfBpwsZaCwpN0_WXzPb2w=') 50% / cover no-repeat;
+    display: flex;
+    flex-direction: row;
+    padding: 0 74px 88px 0;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .vector-6 {
+    position: absolute;
+    left: -32px;
+    top: 481px;
+    width: 1476px;
+    height: 543px;
+  }
+  .rectangle-79 {
+    background: #607C3C;
+    position: relative;
+    margin: 0 579px 596.5px 0;
+    width: 922px;
+    height: 1024px;
+  }
+  .frame-12 {
+    position: relative;
+    margin-bottom: 73px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding-bottom: 67px;
+    box-sizing: border-box;
+  }
+  .welcome-to-aptitude-test-portal {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.333;
+    color: #719147;
+  }
+  .login-to-access-your-account {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    color: #65873B;
+  }
+  .young-man-in-orange-headphones-sitting-at-the-computer {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/CwFPfiNbBgQtgNmKduh2Nj/assets/images/66b00177fa93d36c8affd2013ecda7caeee2dc0d?Expires=1711469741&KeyName=fn12-cdn&Signature=HVLo30L26FkXilEmfHLCijJgpYs=') 50% / contain no-repeat;
+    margin-left: 32px;
+    width: 586px;
+    height: 456px;
+  }
+  .frame-81 {
+    margin: 0 110px 42px 0;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: 360px;
+    box-sizing: border-box;
+  }
+  .frame-34 {
+    border-radius: 15px;
+    border: 2px solid #638438;
+    margin-right: 82px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 19px 0;
+    width: 139px;
+    box-sizing: border-box;
+  }
+  .vector {
+    margin-left: 0.8px;
+    width: 50px;
+    height: 50px;
+  }
+  .student {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 21px;
+    color: #698A3E;
+  }
+  .frame-33 {
+    border-radius: 15px;
+    background: #638438;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 139px;
+  }
+  .vector-1 {
+    margin-left: 0.2px;
+    width: 52px;
+    height: 50px;
+  }
+  .faculty {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 21px;
+    color: #FFFFFF;
+  }
+  .frame-32 {
+    box-shadow: 0px 4px 4px 0px #C9D97A, 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(2px);
+    border-radius: 30px;
+    border: 1px solid #607C3C;
+    background: rgba(255, 255, 255, 0.55);
+    position: relative;
+    margin-right: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 91px 0 140px 0;
+    width: 614px;
+    box-sizing: border-box;
+  }
+  .ellipse-1 {
+    filter: blur(275px);
+    border-radius: 189.5px;
+    background: linear-gradient(180deg, #C9D97A, rgba(201, 217, 122, 0));
+    position: absolute;
+    left: 0px;
+    bottom: -397px;
+    width: 379px;
+    height: 379px;
+  }
+  .ellipse-2 {
+    filter: blur(275px);
+    border-radius: 189.5px;
+    background: linear-gradient(180deg, #C9D97A, rgba(201, 217, 122, 0));
+    position: absolute;
+    top: -136px;
+    right: -350px;
+    width: 379px;
+    height: 379px;
+  }
+  .username {
+    border-radius: 12px;
+    border: 1px solid #607C3C;
+    margin-bottom: 44px;
+    padding: 22.5px 16px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .username-2 {
+    overflow-wrap: break-word;
+    font-family: 'Noto Sans';
+    font-weight: 400;
+    font-size: 20px;
+    color: #607C3C;
+  }
+  .password {
+    border-radius: 12px;
+    border: 1px solid #607C3C;
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 22.5px 17.7px 22.5px 16px;
+    width: 400px;
+    box-sizing: border-box;
+  }
+  .password-3 {
+    margin-right: 13.5px;
+    width: 338.2px;
+    overflow-wrap: break-word;
+    font-family: 'Noto Sans';
+    font-weight: 400;
+    font-size: 20px;
+    color: #607C3C;
+  }
+  .closed-eye {
+    margin: 11.2px 0 8.4px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14.7px;
+    height: 7.3px;
+    box-sizing: border-box;
+  }
+  .vector-4 {
+    width: 14.7px;
+    height: 7.3px;
+  }
+  .login {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    background: linear-gradient(90.57deg, #607C3C 9.9%, rgba(96, 124, 60, 0.83) 53.3%, #607C3C 91.6%);
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 14px 0.6px 14px 0;
+    width: 400px;
+    box-sizing: border-box;
+  }
+  .login-5 {
+    overflow-wrap: break-word;
+    font-family: 'Noto Sans';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .faculty-login {
+    margin: 0 10.6px 100px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 32px;
+    color: #607C3C;
+  }
+  .forgot-password {
+    margin: 0 259.8px 58px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Noto Sans';
+    font-weight: 500;
+    font-size: 16px;
+    color: #7B9B52;
+  }
+  .frame-9 {
+    margin-right: 129.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .dont-have-an-account-signup {
+    overflow-wrap: break-word;
+    font-family: 'Noto Sans';
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .cce-logo-dark-1-traced {
+    margin-bottom: 45px;
+    width: 72px;
+    height: 74px;
+  }
+  .container {
+    position: relative;
+    margin: 57px 0 13px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 621px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-6 {
+    position: relative;
+    margin: 57px 38px 0 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
